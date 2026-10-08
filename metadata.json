@@ -1,0 +1,6 @@
+{
+  "name": "BioIntel – Biomedical IR & Knowledge Discovery",
+  "description": "Intelligent biomedical information retrieval, knowledge graph discovery, and biological entity extraction platform featuring TF-IDF, BM25, and hybrid ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
